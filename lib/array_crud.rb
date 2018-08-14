@@ -1,7 +1,6 @@
 def create_an_empty_array
   array = []
-  
-end
+  end
 
 def create_an_array
   array = ["element1", "element1", "element1", "element1"]
@@ -32,10 +31,3 @@ def retrieve_element_from_index(array, index_number)
    array.[0]
  end
 
-def retrieve_first_element_from_array(array)
-  
-end
-
-def retrieve_last_element_from_array(array)
-  
-end
